@@ -1,0 +1,61 @@
+[2021-11-07 20:48:21.954] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-07 20:48:21.954] [remoteagent] [info] Extension host agent started.
+[2021-11-07 20:48:22.235] [remoteagent] [info] [::ffff:172.25.64.1][686901a1][ManagementConnection] New connection established.
+[2021-11-07 20:48:22.253] [remoteagent] [info] [::ffff:172.25.64.1][5dccce1b][ExtensionHostConnection] New connection established.
+[2021-11-07 20:48:22.266] [remoteagent] [info] [::ffff:172.25.64.1][5dccce1b][ExtensionHostConnection] <662> Launched Extension Host Process.
+[2021-11-07 20:49:56.005] [remoteagent] [info] Uninstalling extension: tht13.html-preview-vscode
+[2021-11-07 20:49:56.273] [remoteagent] [info] Successfully uninstalled extension: tht13.html-preview-vscode
+[2021-11-07 20:50:12.183] [remoteagent] [info] [::ffff:172.25.64.1][686901a1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-07 20:50:13.234] [remoteagent] [info] [::ffff:172.25.64.1][5dccce1b][ExtensionHostConnection] <662> Extension Host Process exited with code: 0, signal: null.
+[2021-11-07 20:50:13.234] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-11-07 20:50:14.791] [remoteagent] [info] [::ffff:172.25.64.1][dc75dd05][ManagementConnection] New connection established.
+[2021-11-07 20:50:14.830] [remoteagent] [info] [::ffff:172.25.64.1][c4f524a0][ExtensionHostConnection] New connection established.
+[2021-11-07 20:50:14.856] [remoteagent] [info] [::ffff:172.25.64.1][c4f524a0][ExtensionHostConnection] <743> Launched Extension Host Process.
+[2021-11-07 20:51:49.012] [remoteagent] [info] [::ffff:172.25.64.1][dc75dd05][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-07 20:51:50.073] [remoteagent] [info] [::ffff:172.25.64.1][c4f524a0][ExtensionHostConnection] <743> Extension Host Process exited with code: 0, signal: null.
+[2021-11-07 20:51:50.073] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-11-07 20:51:50.073] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-11-07 20:51:53.146] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] New connection established.
+[2021-11-07 20:51:53.159] [remoteagent] [info] [::ffff:172.25.64.1][2c8d1c86][ExtensionHostConnection] New connection established.
+[2021-11-07 20:51:53.170] [remoteagent] [info] [::ffff:172.25.64.1][2c8d1c86][ExtensionHostConnection] <848> Launched Extension Host Process.
+[2021-11-07 20:52:16.376] [remoteagent] [info] Installing extension: tht13.html-preview-vscode
+[2021-11-07 20:52:16.561] [remoteagent] [info] Downloaded extension: tht13.html-preview-vscode /root/.vscode-server/data/CachedExtensionVSIXs/tht13.html-preview-vscode-0.2.5
+[2021-11-07 20:52:16.611] [remoteagent] [info] Removed the extension from uninstalled list: tht13.html-preview-vscode
+[2021-11-07 20:52:16.619] [remoteagent] [info] Extension installed successfully: tht13.html-preview-vscode
+[2021-11-07 20:56:50.076] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-11-07 21:26:43.255] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-11-08 18:43:46.743] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-11-08 18:43:46.745] [remoteagent] [info] [::ffff:172.25.64.1][2c8d1c86][ExtensionHostConnection] The client has reconnected.
+[2021-11-08 18:43:46.747] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] The client has reconnected.
+[2021-11-08 21:42:14.452] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-11-09 11:49:09.247] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-11-09 11:49:09.251] [remoteagent] [info] [::ffff:172.25.64.1][2c8d1c86][ExtensionHostConnection] The client has reconnected.
+[2021-11-09 11:49:09.264] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] The client has reconnected.
+[2021-11-09 11:50:21.256] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-11-09 13:26:04.386] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-11-09 13:26:04.386] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] The client has reconnected.
+[2021-11-09 13:26:04.390] [remoteagent] [info] [::ffff:172.25.64.1][2c8d1c86][ExtensionHostConnection] The client has reconnected.
+[2021-11-09 13:37:39.306] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-11-09 18:45:32.226] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-11-09 18:45:32.227] [remoteagent] [info] [::ffff:172.25.64.1][2c8d1c86][ExtensionHostConnection] The client has reconnected.
+[2021-11-09 18:45:32.240] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] The client has reconnected.
+[2021-11-09 21:24:48.588] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-11-10 14:19:48.508] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-11-10 14:19:48.572] [remoteagent] [info] [::ffff:172.25.64.1][da2bcc1c][ManagementConnection] The client has reconnected.
+[2021-11-10 14:19:48.782] [remoteagent] [info] [::ffff:172.25.64.1][2c8d1c86][ExtensionHostConnection] The client has reconnected.
+[2021-11-10 14:19:56.859] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+[2021-11-10 14:20:07.686] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ja /root/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-ja-1.62.3
+[2021-11-10 14:20:08.752] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.e119404e-a2d2-4300-8d22-99806b07d833: ms-ceintl.vscode-language-pack-ja
+[2021-11-10 14:20:08.773] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.62.3
+[2021-11-10 14:20:08.776] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-ja
+[2021-11-10 14:20:08.776] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+[2021-11-10 14:20:09.030] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja

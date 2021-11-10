@@ -1,0 +1,12 @@
+[Error - 1:30:33 PM] Error while computing completions for file:///root/home2_8shou.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at Object.e.create (/root/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1185857)
+    at /root/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:758975
+    at e.<anonymous> (/root/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:758996)
+    at /root/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:757913
+    at Object.next (/root/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:758018)
+    at /root/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:756954
+    at new Promise (<anonymous>)
+    at V (/root/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:756699)
+    at e.computeCompletions (/root/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:758331)
+    at e.<anonymous> (/root/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:762109)

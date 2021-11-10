@@ -1,0 +1,23 @@
+[2021-11-07 20:44:07.896] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-07 20:44:07.897] [remoteagent] [info] Extension host agent started.
+[2021-11-07 20:44:08.368] [remoteagent] [info] [::ffff:172.25.64.1][f8c46dc2][ExtensionHostConnection] New connection established.
+[2021-11-07 20:44:08.371] [remoteagent] [info] [::ffff:172.25.64.1][0110b79f][ManagementConnection] New connection established.
+[2021-11-07 20:44:08.485] [remoteagent] [info] [::ffff:172.25.64.1][f8c46dc2][ExtensionHostConnection] <471> Launched Extension Host Process.
+[2021-11-07 20:46:57.268] [remoteagent] [info] Installing extension: tht13.html-preview-vscode
+[2021-11-07 20:46:57.986] [remoteagent] [info] Downloaded extension: tht13.html-preview-vscode /root/.vscode-server/data/CachedExtensionVSIXs/tht13.html-preview-vscode-0.2.5
+[2021-11-07 20:46:59.950] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.81dd3a51-3a0b-443e-a86e-b8006755a14a: tht13.html-preview-vscode
+[2021-11-07 20:46:59.979] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/tht13.html-preview-vscode-0.2.5
+[2021-11-07 20:46:59.983] [remoteagent] [info] Extracting completed. tht13.html-preview-vscode
+[2021-11-07 20:46:59.984] [remoteagent] [info] Extension installed successfully: tht13.html-preview-vscode
+[2021-11-07 20:48:15.982] [remoteagent] [info] [::ffff:172.25.64.1][0110b79f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-07 20:48:17.029] [remoteagent] [info] [::ffff:172.25.64.1][f8c46dc2][ExtensionHostConnection] <471> Extension Host Process exited with code: 0, signal: null.
+[2021-11-07 20:48:17.030] [remoteagent] [info] Last EH closed, waiting before shutting down
